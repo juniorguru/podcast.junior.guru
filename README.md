@@ -1,6 +1,10 @@
 # podcast.junior.guru
 
-Podcast for juniors in tech 🐣 This repository works as backend for the podcast.
+Podcast for juniors in tech 🐣
+
+## How does it work?
+
+This repo is a backend for the podcast. There are episodes in the `episodes` directory. There are GitHub Pages.
 
 ## FFmpeg Cheatsheet
 
