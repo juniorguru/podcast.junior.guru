@@ -16,7 +16,7 @@ The episodes are linked from the [junior.guru codebase](https://github.com/honza
 
 **Why not S3?** Our lives are too short to fiddle with cloud consoles and the IAM hell.
 
-**You shouldn't put large files to Git!** True. But GitHub makes it too easy to resist! It's okay to store files up to 100 MB directly in the repo. If the podcast grows, the escape plan is to repurpose GitHub Releases, where we can upload large binaries without any limits. The downside is that each time we would have to create a git tag first, so for the start, we decided to use GitHub Pages.
+**You shouldn't put large files to Git!** True. But GitHub makes it too easy to resist! It's okay to store files up to 100 MB each directly in the repo. If the podcast grows, the plan is to repurpose GitHub Releases, where we can upload large binaries without any limits. The downside is that each time we would have to create a git tag first, so for simplicity, we decided to use GitHub Pages in the beginning.
 
 ## FFmpeg Cheatsheet
 
