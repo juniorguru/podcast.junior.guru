@@ -12,7 +12,7 @@ The episodes are linked from the [junior.guru codebase](https://github.com/honza
 
 **Why not Anchor?** Anchor costs nothing, but it would own our Spotify listeners. According to our research, it would be very hard to change the hosting provider later in the future. Anchor feels like one of those services where you pay by freedom rather than money.
 
-**Why not Buzzsprout?** We wanted to start small and with zero costs.
+**Why not Buzzsprout?** We wanted to start small and with zero costs until we have at least rough idea if we manage to keep publishing and how much listeners we are able to attract.
 
 **Why not S3?** Our lives are too short to fiddle with cloud consoles and the IAM hell.
 
