@@ -16,7 +16,7 @@ This repo serves as a hosting for the podcast audio files. There are episodes in
 ### Robots
 
 5. Every day, the [podcast.py](https://github.com/honzajavorek/junior.guru/blob/main/juniorguru/sync/podcast.py) script in the junior.guru repo takes the available data and creates corresponding database entries.
-6. The [api.py](https://github.com/honzajavorek/junior.guru/blob/main/juniorguru/mkdocs/api.py) generates the [podcast.xml](junior.guru/api/podcast.xml) feed. It includes only episodes with publish dates in the past.
+6. The [api.py](https://github.com/honzajavorek/junior.guru/blob/main/juniorguru/mkdocs/api.py) generates the [podcast.xml](https://junior.guru/api/podcast.xml) feed. It includes only episodes with publish dates in the past.
 7. (_not implemented yet_) The same data is used for generating the [podcast homepage](https://junior.guru/podcast/).
 8. (_not implemented yet_) The same data serves to the Discord bot for announcing new podcast episodes in the club.
 9. (_not implemented yet_) Podcast platforms, such as Spotify or Apple, regularly check the podcast.xml feed and process updates.
