@@ -20,10 +20,12 @@ This repo serves as a hosting for the podcast audio files. There are episodes in
 7. The same data is used for generating the [podcast homepage](https://junior.guru/podcast/).
 8. The same data serves to the Discord bot for announcing new podcast episodes in the club.
 9. Podcast platforms, such as Spotify or Apple, regularly check the podcast.xml feed and process updates.
+10. The [Headliner](https://www.headliner.app/) checks the podcast.xml and turns new episode into a [YouTube video](https://www.youtube.com/@juniordotguru/podcasts).
 
 ### Humans (again)
 
-10. Honza announces new podcast episodes on social media as part of his regular posting routine.
+11. Honza gets notified about new the new YouTube video and manually switches it from unlisted to public.
+12. Honza announces new podcast episodes on social media as part of his regular posting routine.
 
 
 ## FAQ
