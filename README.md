@@ -54,4 +54,4 @@ This repo serves as a hosting for the podcast audio files. There are episodes in
 
 ## License
 
-Copyright (c) 2022 Pavlína Froňková, Jan Javorek
+Copyright (c) 2022–2024 Pavlína Froňková, Jan Javorek
